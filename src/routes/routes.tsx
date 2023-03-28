@@ -9,7 +9,7 @@ import { Login } from "../features/login/Login";
 export const router = createBrowserRouter([
   {
     path: "/",
-    element: <div>Hello world!</div>,
+    element: <div>Aqui va el home</div>,
   },
   {
     path: "/login",
